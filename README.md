@@ -93,6 +93,4 @@ Key knobs in `walk_forward.py`'s `WF` config: `TEST_DAYS` (fold length),
   future results.
 
 ## License
-
-Add a license of your choice (e.g. MIT) before making this repo public if
-you want to make reuse terms explicit.
+"All rights reserved — shared for portfolio/demonstration purposes only, not licensed for reuse or commercial use without permission."
