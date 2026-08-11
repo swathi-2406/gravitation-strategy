@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Polygon data cache (large, regenerable)
+polygon_cache/
+
+# Backtest outputs
+*.csv
+*.png
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
